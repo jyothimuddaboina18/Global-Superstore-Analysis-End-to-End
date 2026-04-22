@@ -47,6 +47,7 @@ Developed an end-to-end data analytics solution to analyze global retail perform
 ## 📂 Repository Structure
 
 Global-Superstore-Analysis/
+
 │── data/
 
 │── sql/
