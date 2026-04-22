@@ -1,4 +1,4 @@
-# 🛒 Global Superstore Analysis | End-to-End Data Analytics 
+# 🛒 Global Superstore Analysis | End-to-End Data Analytics
 
 ## 📌 Professional Summary
 
