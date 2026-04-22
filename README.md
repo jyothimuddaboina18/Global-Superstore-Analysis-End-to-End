@@ -48,9 +48,13 @@ Developed an end-to-end data analytics solution to analyze global retail perform
 
 Global-Superstore-Analysis/
 │── data/
+
 │── sql/
+
 │── python/
+
 │── powerbi/
+
 │── README.md
 
 ---
